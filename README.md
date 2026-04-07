@@ -59,7 +59,3 @@ This project helped in:
 
 ---
 
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a star ⭐
